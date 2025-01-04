@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="nombre">Loreto Uzquiano Esteban</string>
+    <string name="btn_sig">Siguiente</string>
+    <string name="btn_volver">Volver</string>
+    <string name="pregunta1">¿Cuál es el único mamífero capaz de volar?</string>
+    <string name="pinguino">Pingüino</string>
+    <string name="murcielago">Murciélago</string>
+    <string name="colibri">Colibrí</string>
+    <string name="ardilla_voladora">Ardilla voladora</string>
+    <string name="pregunta2">¿Cuál es el río más largo del mundo?</string>
+    <string name="pregunta3">¿Quién escribió la obra \"Don Quijote de la Mancha\"?</string>
+    <string name="pregunta4">¿Cuál es el país más grande del mundo por superficie?</string>
+    <string name="pregunta5">¿En qué año comenzó la Segunda Guerra Mundial?</string>
+    <string name="resultado">La puntuación que has conseguido en este test es:</string>
+    <string name="puntos_totales">Puntos totales:</string>
+    <string name="rio_mississippi">d) Río Mississippi</string>
+    <string name="rio_nilo">a) Río Nilo</string>
+    <string name="rio_yangtse">c) Río Yangtsé</string>
+    <string name="rio_amazonas">b) Río Amazonas</string>
+    <string name="aclaracion">(Escribe en la caja de texto A, B, C o D, según cuál creas que es la respuesta correcta)</string>
+    <string name="respuesta_correcta">Respuesta Correcta</string>
+    <string name="a">a)</string>
+    <string name="b">b)</string>
+    <string name="c">c)</string>
+    <string name="d">d)</string>
+    <string name="preguntas_de">Preguntas de ...</string>
+    <string name="corregir">Corregir</string>
+    <string name="volver_a_empezar">Volver a empezar</string>
+    <string name="empezar_quizz">Empezar!</string>
+    <string name="with">con...</string>
+</resources>
